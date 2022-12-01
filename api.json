@@ -1,0 +1,32 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Neymar"
+    },
+    {
+      "id": 2,
+      "name": "Messi"
+    },
+    {
+      "name": "Richarlison",
+      "id": 3
+    },
+    {
+      "name": "xpto",
+      "id": 4
+    },
+    {
+      "name": "xpto2",
+      "id": 5
+    },
+    {
+      "name": "xpto3",
+      "id": 6
+    },
+    {
+      "name": "xpto4",
+      "id": 7
+    }
+  ]
+}
